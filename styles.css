@@ -1,0 +1,43 @@
+body {
+    background-color: #98b5f5;
+}
+
+p.three {
+    border-style: solid;
+    border-color:  #e6f7ff;
+}
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.h1 {
+    color:  #e6f7ff;
+}
+
+.P {
+    text-align: center;
+}
+.p2 {
+    color: navy;
+}
+
+.p4 {
+    background-color: #ffffb3
+;
+}
+
+img {
+  border: 10px solid #ffffff;
+    position: center;
+    
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+    font-family: 'Fantasy' , papyrus;
+}
